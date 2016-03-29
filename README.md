@@ -1,6 +1,10 @@
 netlib-java
 ===========
 
+Fork: [interpolation matching SciPy by translating FITPACK with f2j](https://github.com/randallwhitman/netlib-java/tree/fitpack-interpolation-f2j)
+
+===========
+
 `netlib-java` is a wrapper for low-level [BLAS](http://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms),
 [LAPACK](http://en.wikipedia.org/wiki/LAPACK) and [ARPACK](http://en.wikipedia.org/wiki/ARPACK)
 that performs **as fast as the C / Fortran interfaces** with a pure JVM fallback. `netlib-java` is included with recent versions of [Apache Spark](https://spark.apache.org/).
